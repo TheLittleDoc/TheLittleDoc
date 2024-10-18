@@ -1,4 +1,7 @@
-### Hi there 👋
+
+# <img src="https://datastream.page/logo512.png" style="display:inline-block; padding-top:10px;" height="30">  TheLittleDoctor
+_Musician, programmer, lunatic, electronics enthusiast_ - <img src="https://64.media.tumblr.com/tumblr_m9dg70itF41ru71nxo1_100.gif" height="15" style="display:inline;" /> _bad ideas and counting!_
+-----
 
 <!--
 **TheLittleDoc/TheLittleDoc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
